@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "facebookclone-a3052",
+    "facebookclone": "facebookclone-a3052"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
